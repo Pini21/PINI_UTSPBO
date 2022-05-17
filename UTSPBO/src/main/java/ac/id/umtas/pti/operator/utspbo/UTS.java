@@ -26,8 +26,8 @@ public class UTS {
     System.out.println("=============================================");
     System.out.println("Identitas Pembuat");
     System.out.println("=============================================");
-    System.out.println("Nama   : Tahnia Gita Lestari Azizah");
-    System.out.println("NIM    : C1983207022");
+    System.out.println("Nama   : Pini Oktapiani");
+    System.out.println("NIM    : C1983207017");
     System.out.println("Prodi  : PTI6 ");
     System.out.println("Matkul : Pemrograman Berorientasi Objek");
     System.out.println("============================================");
